@@ -1,0 +1,6 @@
+# Ignorar el archivo de configuración con el Token y los IDs
+config.json
+
+# Ignorar carpetas de entorno virtual (si usas uno)
+venv/
+__pycache__/
