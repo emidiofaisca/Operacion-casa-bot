@@ -1,0 +1,10 @@
+{
+    "token": "TU_TOKEN_AQUI",
+    "chat_ids": ["ID_USUARIO_1", "ID_USUARIO_2"],
+    "gastos": {
+        "alquiler": 0,
+        "vodafone": 0,
+        "nintendo": 0,
+        "luz_y_gas": 0
+    }
+}
